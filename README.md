@@ -1,7 +1,7 @@
 # CatUserbot
 
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/44c6dc823404241ddeea2.jpg)](https://t.me/catuserbot_support) 
+[![catuserbot logo](https://telegra.ph/file/e1bcc91dda7a3de052592.jpg)](https://t.me/catuserbot_support) 
 
 ## Deployment
 > Click on buttons to expands! 
