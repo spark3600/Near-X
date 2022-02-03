@@ -23,7 +23,7 @@ A simple Telegram userbot based on Telethon .
 > Always remember to use valid API'S else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>  
-<p><a href="http://generatestringsession.sandeep1709.repl.run/"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@DeepjitDas/CatUserbotStringSession?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 </details>
   
