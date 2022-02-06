@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/deepaiims/katsss.git /root/userbot
+RUN git clone https://github.com/deepaiims/katssss.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
