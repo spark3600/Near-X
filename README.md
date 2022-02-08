@@ -11,7 +11,7 @@ A simple Telegram userbot based on Telethon .
   
 - [Telegram API Key](https://my.telegram.org/auth) 
 - [Telegram Bot Token](https://t.me/botfather)
-- [String Session](http://generatestringsession.sandeep1709.repl.run/) 
+- [String Session](https://replit.com/@DeepjitDas/CatUserbotStringSession?v=1) 
 
 </details>
  
