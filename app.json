@@ -8,7 +8,6 @@
     "productivity"
   ],
   "repository": "https://github.com/Jisan09/catuserbot/",
-  "stack": "container", 
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
