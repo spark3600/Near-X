@@ -21,6 +21,7 @@ gtts
 hachoir
 heroku3
 html-telegraph-poster
+httpx[http2]
 humanize
 IMDbPY
 jikanpy
