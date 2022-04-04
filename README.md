@@ -1,7 +1,7 @@
 # NearBot
 
-A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/45224f8b0919afa77c5d9.jpg)](https://t.me/ANIME_WORLD15) 
+A simple Telegram userbot based on Telethon.
+[![logo](https://telegra.ph/file/45224f8b0919afa77c5d9.jpg)](https://t.me/ANIME_WORLD15) 
 
 ## Deployment
 > Click on buttons to expands! 
